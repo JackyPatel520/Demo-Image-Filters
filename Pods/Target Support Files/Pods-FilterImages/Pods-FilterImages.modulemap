@@ -1,0 +1,6 @@
+framework module Pods_FilterImages {
+  umbrella header "Pods-FilterImages-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,17 @@
+
+
+"name"                                  = "images Demo";
+"ok_text"                               = "Ok";
+"camera_not_found"                      = "Camera Not Found";
+"device_no_cemera"                      = "This device has no Camera.";
+"image_saved"                           = "Your image has been saved to your gallery.";
+"file_format_not_support"               = "File format not supported.";
+"file_format_alert"                     = "Please select another file to upload.";
+
+// action buttons
+"choose_image"                          = "Select Image";
+"capture"                               = "Capture";
+"gallery"                               = "Gallery";
+"cancel"                                = "Cancel";
+"select_image_button"                   = "Select";
+"save_image_button"                     = "Save";
