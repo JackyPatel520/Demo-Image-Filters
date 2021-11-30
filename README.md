@@ -17,10 +17,3 @@ Simple image filters
 4. Open "FilterImages.xcworkspace" into XCode.
 5. Set your images into project.
 6. Run project.
-
-
-### Contact Info
-
-for any kind of query contact on: jacksrocks1998@gmail.com
-
-Suggestions are welcome 😊
