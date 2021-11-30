@@ -11,7 +11,7 @@ Simple image filters
 
 ### Installation, Setup and Execution
 
-1. Clone this git: https://github.com/JaykishanKothiya/Demo-Image-Filters
+1. Clone this git: https://github.com/JackyPatel520/Demo-Image-Filters
 2. Open terminal and navigate to project root folder using "cd" command.
 3. Now run "pod install" command into terminal to install required pods into project.
 4. Open "FilterImages.xcworkspace" into XCode.
